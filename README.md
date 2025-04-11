@@ -1,4 +1,4 @@
-# 📊 Dashboard de Vendas - Assinaturas Ultimate
+# 📊 Dashboard de Vendas - XBOX GAME PASS SUBSCRIPTION SALES
 
 Este projeto consiste em um dashboard analítico desenvolvido no Excel para monitoramento e análise de desempenho de vendas de assinaturas Ultimate.
 
